@@ -1,7 +1,7 @@
 # solar-challenge-week0
 🧩 Environment Setup
 
-To reproduce the same Python environment used in this project, follow these steps:
+To reproduce the same Python environment used in this project, follow these steps
 
 1️⃣ Create a Virtual Environment
 On Windows:
