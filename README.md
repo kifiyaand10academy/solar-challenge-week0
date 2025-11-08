@@ -8,10 +8,6 @@ On Windows:
 python -m venv venv
 venv\Scripts\activate
 
-On Mac/Linux:
-python3 -m venv venv
-source venv/bin/activate
-
 2️⃣ Install Required Packages
 pip install --upgrade pip
 pip install -r requirements.txt
